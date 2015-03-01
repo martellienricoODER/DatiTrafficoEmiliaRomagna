@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NUMERO_PROGRESSIVO": 1, "POSTAZIONE": 6, "LATITUDINE": "44°09'50.55\"", "Y": 44.165417, "LONGITUDINE": "10°38'34.83\"", "X": 10.645083, "TRATTO": "SS 12 tra Fiumalbo e Abetone", "NN_CORSIE": 2, "CORSIA": 0, "DIREZIONE_MARCIA_LOCALITA'": "DA CONFINE REGIONALE TOSCANA A CONFINE REGIONALE LOMBARDIA", "PROGRESSIVA_KM": "92,55" }, "geometry": { "type": "Point", "coordinates": [ 10.64508333, 44.16541667 ] } },
+{ "type": "Feature", "properties": { "NUMERO_PROGRESSIVO": 1, "POSTAZIONE": 6, "LATITUDINE": "44°09'50.55\"", "Y": 44.165417, "LONGITUDINE": "10°38'34.83\"", "X": 10.645083, "TRATTO": "SS 12 tra Fiumalbo e Abetone", "NN_CORSIE": 2, "CORSIA": 1, "DIREZIONE_MARCIA_LOCALITA'": "DA CONFINE REGIONALE LOMBARDIA A CONFINE REGIONALE TOSCANA", "PROGRESSIVA_KM": "92,55" }, "geometry": { "type": "Point", "coordinates": [ 10.64508333, 44.16541667 ] } },
+]
+}
