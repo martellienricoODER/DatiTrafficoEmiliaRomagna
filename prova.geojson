@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5659" } },
-                                                                                
+
 "features": [
 { "type": "Feature", "properties": { "ID_COMUNE": 39013, "ISTAT": "039013", "NOME": "MASSA LOMBARDA", "ID_PROVINC": 39, "SIGLA_PRO": "RA", "AREA": 37227963.663014, "LEN": 46504.109026 }
                    , "geometry": { "type": "MultiPolygon"
